@@ -49,3 +49,9 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/EzequiasCodeMaster/count.svg?"  />
 </div>
+
+---
+
+<h3 align="center">Obrigado por visitar meu perfil! 🚀</h3>
+<p align="center">Vamos construir algo incrível juntos. 🌟</p>
+
