@@ -1,4 +1,4 @@
-<h2 align="left">Olah 👋! Meu nome é Ezequias</h2>
+<h2 align="left">Olá 👋! Meu nome é Ezequias</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzequiasCodeMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&custom_title=Statisticas%20do%20GitHub%20de%20ezequias" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=EzequiasCodeMaster&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&custom_title=Estatísticas%20do%20GitHub%20de%20Ezequias" height="141" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EzequiasCodeMaster&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dracula&hide_border=false&custom_title=Tecnologias" height="141" alt="languages graph"  />
 </div>
 
@@ -39,11 +39,10 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/EzequiasCodeMaster/EzequiasCodeMaster/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img align="rigth" height="150" src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif" alt="hacking gif" />
+  <img align="left" height="150" src="https://raw.githubusercontent.com/EzequiasCodeMaster/EzequiasCodeMaster/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
